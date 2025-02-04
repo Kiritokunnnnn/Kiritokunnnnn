@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 Hi I'm Minh Khang :'D 
+
+
+I am a Computer Science student at The University Of Huddersfield, I develop my projects here on GitHub and am focus on developing full-stack applications using React.js and Node.js, I am passionate about building web applications. My currrent focus is on learning new technologies and improving my coding skills. 
 
 <!--
 **Kiritokunnnnn/Kiritokunnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
