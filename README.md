@@ -48,8 +48,10 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/minhkhang-tr/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a/>  
+  <a/> 
+  <a href="https://www.youtube.com/channel/UC_z5sYYX6KP7nyI3R38Uf9w">  
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a/>  
 </div>
 
 ###
