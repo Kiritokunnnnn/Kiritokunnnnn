@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Feel free to reach out to me via my Linkedin Page and check out my Project Demos on YouTube as I do quick walkthrough's and explain my projects in a simple way!</h3>
+<p align="left">Feel free to reach out to me via my Linkedin Page and check out my Project Demos on YouTube as I do quick walkthrough's and explain my projects in a simple way!</p>
 
 ###
 
