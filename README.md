@@ -30,9 +30,16 @@
 
 ###
 
-<p align="left">As for future projects I am looking to take on :<br>- Building a full-stack web application using Next.js and Node.js, integrating authentication, databases, and APIs.<br>- Developing a mobile app with React Native, features like push notifications, offline support, and real-time data updates with Firebase.<br>- Experimenting with AI/ML models related to web apps, such as recommendation systems, chatbots, or image recognition.<br>- Optimizing web performance by learning and implementing techniques like SSR, ISR, caching</p>
+<p align="left">As for future projects I am looking to take on :</p><br>
+<ul>
+<li>Building a full-stack web application using Next.js and Node.js, integrating authentication, databases, and APIs.</li>
+<li>Developing a mobile app with React Native, features like push notifications, offline support, and real-time data updates with Firebase.</li>
+<li>Experimenting with AI/ML models related to web apps, such as recommendation systems, chatbots, or image recognition.</li>
+<li>Optimizing web performance by learning and implementing techniques like SSR, ISR, caching. </li>
+</ul>
 
-###
+<br>
+
 
 <p align="left">Feel free to reach out to me via my Linkedin Page and check out my Project Demos on YouTube as I do quick walkthrough's and explain my projects in a simple way!</p>
 
