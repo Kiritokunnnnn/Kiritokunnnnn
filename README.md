@@ -24,7 +24,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+## Projects
+
+### Sound Trek
+A web application that allows users to create personalized playlists and add their favorite songs seamlessly. Using the Spotify Web API, the application provides an interface to search for songs, organize playlists, and manage music preferences effortlessly.
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_red_circle_(2017).svg/40px-YouTube_social_red_circle_(2017).svg.png)](https://youtu.be/0sG1B4uZSRQ?si=LBS2TLIv5Povqb_X)
+
+---
 
 <h3 align="left">✨ More About Me</h3>
 
