@@ -29,7 +29,9 @@
 <table>
   <tr>
     <td align="center">
-      <img src="IMAGE_URL_1" width="300">
+      <a href="https://youtu.be/0sG1B4uZSRQ?si=MQM_LxGAR_p1pr9t">
+       <img src="https://github.com/Kiritokunnnnn/Sound-Trek/blob/6ac1459eff3bd9164a8dee32c51b3730f4bfeecd/images/homepage.png" width="300">
+      </a>
     </td>
   </tr>
   <tr>
