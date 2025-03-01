@@ -24,8 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-## Projects
-
+##
+<h1 align="center">📡Projects</h1>
 <table>
   <tr>
     <td align="center">
@@ -36,7 +36,11 @@
   </tr>
   <tr>
     <td align="center">
-      <b>Sound Trek</b><br>
+      <b>Sound Trek</b>
+  </tr>
+  <tr>
+    <td align="center">
+      
       A web application that allows users to create personalized playlists and add their favorite songs seamlessly. Using the Spotify Web API, the application provides an interface to search for songs, organize playlists, and manage music preferences effortlessly.
     </td>
   </tr>
