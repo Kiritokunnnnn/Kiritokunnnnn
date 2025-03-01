@@ -60,7 +60,7 @@
       </a>
     </td>
     <td align="center">
-      This is an ongoing project, and I am making great progress. 
+      This is an ongoing project 🛠️⏳, and I am making great progress 📈📈📈. 
     </td>
   </tr>
 </table>
