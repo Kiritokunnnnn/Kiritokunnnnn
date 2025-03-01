@@ -33,15 +33,24 @@
        <img src="https://github.com/Kiritokunnnnn/Sound-Trek/blob/6ac1459eff3bd9164a8dee32c51b3730f4bfeecd/images/homepage.png" width="300">
       </a>
     </td>
+    <td align="center">
+       <img src="https://github.com/Kiritokunnnnn/VINMED-fullstack/blob/e9220787232812d6bb2ed228cdff9ff497efaf94/image/Screenshot%202025-03-01%20223229.png" width="300">
+    </td>
   </tr>
   <tr>
     <td align="center">
       <b>Sound Trek</b>
     </td>  
+    <td align="center">
+      <b>VINMED</b>
+    </td>
   </tr>
   <tr>
     <td align="center">
       A web application that allows users to create personalized playlists and add their favorite songs seamlessly. Using the Spotify Web API, the application provides an interface to search for songs, organize playlists, and manage music preferences effortlessly.
+    </td>
+    <td align="center">
+      a web-based medical appointment booking system that allows patients to book appointments with doctors specializing in different medical fields.The project follows the MVC architecture for maintainability and scalability and integrates multiple modern web technologies for an efficient user experience.
     </td>
   </tr>
   <tr>
@@ -49,6 +58,9 @@
       <a href="https://youtu.be/0sG1B4uZSRQ?si=LBS2TLIv5Povqb_X">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50">
       </a>
+    </td>
+    <td align="center">
+      
     </td>
   </tr>
 </table>
