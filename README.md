@@ -26,9 +26,26 @@
 
 ## Projects
 
-### Sound Trek
-A web application that allows users to create personalized playlists and add their favorite songs seamlessly. Using the Spotify Web API, the application provides an interface to search for songs, organize playlists, and manage music preferences effortlessly.
-[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://youtu.be/0sG1B4uZSRQ?si=LBS2TLIv5Povqb_X)
+<table>
+  <tr>
+    <td align="center">
+      <img src="IMAGE_URL_1" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Sound Trek</b><br>
+      A web application that allows users to create personalized playlists and add their favorite songs seamlessly. Using the Spotify Web API, the application provides an interface to search for songs, organize playlists, and manage music preferences effortlessly.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://youtu.be/0sG1B4uZSRQ?si=LBS2TLIv5Povqb_X">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
