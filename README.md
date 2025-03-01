@@ -37,10 +37,10 @@
   <tr>
     <td align="center">
       <b>Sound Trek</b>
+    </td>  
   </tr>
   <tr>
     <td align="center">
-      
       A web application that allows users to create personalized playlists and add their favorite songs seamlessly. Using the Spotify Web API, the application provides an interface to search for songs, organize playlists, and manage music preferences effortlessly.
     </td>
   </tr>
